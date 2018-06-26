@@ -1,2 +1,2 @@
 # Discussion 
-Repository for talk about group's stuff 
+Repository for talking about group's stuff 
