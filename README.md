@@ -1,2 +1,2 @@
-# papeleo
-Repository for keeping information and other paper solicitudes
+# Discussion 
+Repository for talk about group's stuff 
