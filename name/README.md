@@ -1,4 +1,4 @@
 # Discussion 
 Repository for talking about name's group.
 ## First proposal
-Made the group in honor to M. Mirzakhani. 
+Made the group in honour of M. Mirzakhani. 
